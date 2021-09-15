@@ -1,0 +1,16 @@
+/home/minion/Hills/CS/Projects/hills-2-15-8-21-lesson-1/TemperatureConverter/bin/Debug/net5.0/TemperatureConverter
+/home/minion/Hills/CS/Projects/hills-2-15-8-21-lesson-1/TemperatureConverter/bin/Debug/net5.0/TemperatureConverter.deps.json
+/home/minion/Hills/CS/Projects/hills-2-15-8-21-lesson-1/TemperatureConverter/bin/Debug/net5.0/TemperatureConverter.runtimeconfig.json
+/home/minion/Hills/CS/Projects/hills-2-15-8-21-lesson-1/TemperatureConverter/bin/Debug/net5.0/TemperatureConverter.runtimeconfig.dev.json
+/home/minion/Hills/CS/Projects/hills-2-15-8-21-lesson-1/TemperatureConverter/bin/Debug/net5.0/TemperatureConverter.dll
+/home/minion/Hills/CS/Projects/hills-2-15-8-21-lesson-1/TemperatureConverter/bin/Debug/net5.0/ref/TemperatureConverter.dll
+/home/minion/Hills/CS/Projects/hills-2-15-8-21-lesson-1/TemperatureConverter/bin/Debug/net5.0/TemperatureConverter.pdb
+/home/minion/Hills/CS/Projects/hills-2-15-8-21-lesson-1/TemperatureConverter/obj/Debug/net5.0/TemperatureConverter.csprojAssemblyReference.cache
+/home/minion/Hills/CS/Projects/hills-2-15-8-21-lesson-1/TemperatureConverter/obj/Debug/net5.0/TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+/home/minion/Hills/CS/Projects/hills-2-15-8-21-lesson-1/TemperatureConverter/obj/Debug/net5.0/TemperatureConverter.AssemblyInfoInputs.cache
+/home/minion/Hills/CS/Projects/hills-2-15-8-21-lesson-1/TemperatureConverter/obj/Debug/net5.0/TemperatureConverter.AssemblyInfo.cs
+/home/minion/Hills/CS/Projects/hills-2-15-8-21-lesson-1/TemperatureConverter/obj/Debug/net5.0/TemperatureConverter.csproj.CoreCompileInputs.cache
+/home/minion/Hills/CS/Projects/hills-2-15-8-21-lesson-1/TemperatureConverter/obj/Debug/net5.0/TemperatureConverter.dll
+/home/minion/Hills/CS/Projects/hills-2-15-8-21-lesson-1/TemperatureConverter/obj/Debug/net5.0/ref/TemperatureConverter.dll
+/home/minion/Hills/CS/Projects/hills-2-15-8-21-lesson-1/TemperatureConverter/obj/Debug/net5.0/TemperatureConverter.pdb
+/home/minion/Hills/CS/Projects/hills-2-15-8-21-lesson-1/TemperatureConverter/obj/Debug/net5.0/TemperatureConverter.genruntimeconfig.cache

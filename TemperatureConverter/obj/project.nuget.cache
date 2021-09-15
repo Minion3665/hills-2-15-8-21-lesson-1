@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UPROLEmyZjKo66MESholdns8NNFjKNGIZpJg9P8mCoor+LJGkPMy49gGsVFqhrfvuuIIxaXYmvkERwkPsVLY4Q==",
+  "success": true,
+  "projectFilePath": "/home/minion/Hills/CS/Projects/hills-2-15-8-21-lesson-1/TemperatureConverter/TemperatureConverter.csproj",
+  "expectedPackageFiles": [
+    "/home/minion/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
